@@ -1,0 +1,15 @@
+{
+  "version": "1.3.2",
+  "entries": [
+    {
+      "title": "New FOV Shape Options",
+      "date": "2025-08-04",
+      "content": "Added circle, square, and triangle options for FOV display. Also introduced background fill toggle."
+    },
+    {
+      "title": "Aimbot Tweaks",
+      "date": "2025-07-29",
+      "content": "Improved aimbot targeting logic for smoother tracking."
+    }
+  ]
+}
