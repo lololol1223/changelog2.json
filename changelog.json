@@ -1,6 +1,11 @@
 {
   "version": "1.3.2",
   "entries": [
+     {
+      "title": "Fixed minor bugs",
+      "date": "2025-08-04",
+      "content": "Fixed bugs that caused esp not to show etc."
+    },
     {
       "title": "New FOV Shape Options",
       "date": "2025-08-04",
@@ -13,3 +18,4 @@
     }
   ]
 }
+
