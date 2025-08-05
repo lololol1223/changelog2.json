@@ -1,6 +1,12 @@
 {
   "version": "1.3.2",
   "entries": [
+    {
+      "title": "Improved Aimbot,Triggerbot",
+      "date": "2025-08-05",
+      "content": "Added Delay, Hitchance in Triggerbot."
+    },
+    {
      {
       "title": "Fixed minor bugs",
       "date": "2025-08-04",
@@ -18,4 +24,5 @@
     }
   ]
 }
+
 
