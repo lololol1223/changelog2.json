@@ -2,6 +2,11 @@
   "version": "1.3.2",
   "entries": [
     {
+      "title": "Improved ui,Optimised esp",
+      "date": "2025-08-05",
+      "content": "Made the menu more user friendly and esp smoother."
+    },
+    {
       "title": "Improved Aimbot,Triggerbot",
       "date": "2025-08-05",
       "content": "Added Delay, Hitchance in Triggerbot."
@@ -23,6 +28,7 @@
     }
   ]
 }
+
 
 
 
