@@ -7,7 +7,6 @@
       "content": "Added Delay, Hitchance in Triggerbot."
     },
     {
-     {
       "title": "Fixed minor bugs",
       "date": "2025-08-04",
       "content": "Fixed bugs that caused esp not to show etc."
@@ -24,5 +23,6 @@
     }
   ]
 }
+
 
 
